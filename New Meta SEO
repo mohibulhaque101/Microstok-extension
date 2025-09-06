@@ -146,6 +146,30 @@
   {
     "HWID": "39b35ffba978f5e6aee81e0d1c0041d543ac7360880478a4fb19ff4c22c84de6",
     "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "65d2a77ff01c16fff276f161ec370592a4104ce0150fd6d61e7880ce18c9c942",
+    "EXPIRY": "2025-10-06"
+  },
+  {
+    "HWID": "9a828f270fdcc67b1f4a8b75b1bd563e8a8d2a302bd406e0f4244f3625496eae",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "15f4e99a2cde63ad4829e3077bf42b2bbfce66acfe17077e8973bb51c86ea4aa",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "22c6b5ef0094e94de503face59a052add4ebfc1402e1b8b84ed951261ddb61fe",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "f527065ddc972fe4d5fe99d3f82c13dadaed5afac74768c97f288642b6f988fe",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "5cb5de724ea14b7ac97162999e84bee60a4b3e0252998d85a706e082a45a714d",
+    "EXPIRY": "2060-12-31"
   }
 
 
