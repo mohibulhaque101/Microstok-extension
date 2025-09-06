@@ -178,6 +178,22 @@
   {
     "HWID": "0f1a5c19434e84e6471796ef7688bcd20ae7278ac242ddc7ab3640f962717e7a",
     "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "4f300868db0253972d16f9dc3753a8f31826ecd59fa998a9e4e0e017ef1b7379",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "d05c1e86e841c687ebb49f917cf0691f52bd8e281de7a42452a8a243ad513c3f",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "d05c1e86e841c687ebb49f917cf0691f52bd8e281de7a42452a8a243ad513c3f",
+    "EXPIRY": "2060-12-31"
+  },
+  {
+    "HWID": "79171d6dd6c82ac0efbc44a4e43ebb5958665380e25ce1bada9f93ac314f11a1",
+    "EXPIRY": "2060-12-31"
   }
 
 
