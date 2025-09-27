@@ -566,9 +566,11 @@
 {
     "HWID": "d8b7e3f64440fd26e3bd5ddd55197d6af8bbc1cacaf3e1bb37db25f533f40d6c",
     "EXPIRY": "2060-12-31"
+  },
+{
+    "HWID": "cae4cfee49e83d67d359d82153a571f539430d9d2752cf1d0fcf5daec095aab0",
+    "EXPIRY": "2060-12-31"
   }
-
-
 
 
 
