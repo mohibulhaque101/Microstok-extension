@@ -1060,6 +1060,18 @@
 {
     "HWID": "66ac199abf1da6d493df061d71ac9bfce3ea4f119e50717d00fccc52cbedb5dd",
     "EXPIRY": "2060-11-25"
+  },
+{
+    "HWID": "0594a72913a659d46c7bc25f8ce125d9592ead3a137e0b76a7cc87d9bd1a446d",
+    "EXPIRY": "2060-11-25"
+  },
+{
+    "HWID": "d361f2b004a80ba3f30c919148b5e3fd6f1da8510e6b98f6a93f9f424ede4921",
+    "EXPIRY": "2060-11-25"
+  },
+{
+    "HWID": "dace7e22b19d17c735fc7b38d1e40f7ddc628beb992b8382a44cb58712af07ff",
+    "EXPIRY": "2060-11-25"
   }
 
 
