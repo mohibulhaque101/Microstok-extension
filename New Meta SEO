@@ -1488,6 +1488,10 @@
 {
     "HWID": "52c64b848ebfd10db6f7b974517173368642cff2eb9a05b8216210b9df1e68c9",
     "EXPIRY": "2026-01-08"
+  },
+{
+    "HWID": "a55e45f55e5145811bd8dee361e974c370344d9bceb9bd3bc5c6c630e77e98ae",
+    "EXPIRY": "2060-12-31"
   }
 
 
