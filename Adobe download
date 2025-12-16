@@ -170,6 +170,11 @@
     "username": "Abdul",
     "password": "Abdul",
     "expiry": "2060-08-31T23:59:59Z"
+  },
+{
+    "username": "lifetime",
+    "password": "lifetime",
+    "expiry": "2060-08-31T23:59:59Z"
   }
 
 
