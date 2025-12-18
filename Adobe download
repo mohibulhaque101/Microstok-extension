@@ -175,6 +175,11 @@
     "username": "lifetime",
     "password": "lifetime",
     "expiry": "2060-08-31T23:59:59Z"
+  },
+{
+    "username": "gift",
+    "password": "gift",
+    "expiry": "2060-08-31T23:59:59Z"
   }
 
 
