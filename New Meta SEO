@@ -2084,9 +2084,43 @@
 {
     "HWID": "3aa650b2d97bb0742fe383c13d7bf5037e77affe9b4c76e86532ca00e0ae8ba7",
     "EXPIRY": "2026-02-04"
+  },
+{
+    "HWID": "3db936f315a6d4904d3ca5f2a4e077e3971ce46f9d3a96d8c3d225bd214d672c",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "b0cfe9e5f9d94659348bf37c5dc4122214ae1f07b658ef7a7cf2e43db0ff9f4c",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "0b793f05719e77c59b707e4f8db6e04ae2581e077704d3c0252cb674916b607d",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "e647d161681c3f6a50ed4f7b9c28fc2bfa5a28d2f3419b5acc7536fbde1ba0d2",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "2888e1d82d87a8e128358ea4b7c56ed3a4abfc47d177831a89558b400cba45ad",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "a3ee7accea9ee109007c674cb00c85c0e47c9f523b243cdda27b0ab8bdd64e47",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "3d3cf57ec0be1f59703baa40e841ca2c993887b16079c99e592d52dfd150f1f4",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "681d62acb65c7356e01a6779ef7c87be50142cbe83525ccbc1f8dacdc8cefdd6",
+    "EXPIRY": "2026-12-29"
+  },
+{
+    "HWID": "9207ef3fedb7540c4bd71194a5b09539d1f6f66b9b8508829a445a8bdfcb0749",
+    "EXPIRY": "2026-12-29"
   }
-
-
 
 
 
