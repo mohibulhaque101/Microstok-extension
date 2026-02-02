@@ -2372,6 +2372,14 @@
 {
     "HWID": "6388d606a1c96cffdd3c05d771d7db2499ac5352d893532e71638a780995bc5d",
     "EXPIRY": "2060-02-07"
+  },
+{
+    "HWID": "d7d6275fb3f272d8812ed18410628e9fcaede893f65aa52cfe10c2d28e5de102",
+    "EXPIRY": "2070-02-07"
+  },
+{
+    "HWID": "71fc88bf88390babddc6bf687c38214440f9d0f2fc4bb0846c7d26395c81c39f",
+    "EXPIRY": "2070-02-07"
   }
 
 
