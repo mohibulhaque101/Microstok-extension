@@ -2538,10 +2538,6 @@
     "EXPIRY": "2080-03-22"
   },
 {
-    "HWID": "66794365af1aa4437a2fd682fd2b8a731eca6ff3f0fcaa25602d628de37b3ed6",
-    "EXPIRY": "2080-03-22"
-  },
-{
     "HWID": "69a2766b04fdf5a77e73e3ea21cc03b44cd3492df46a1dc397a9b1b99a070824",
     "EXPIRY": "2026-03-25"
   },
@@ -2818,7 +2814,7 @@
     "EXPIRY": "2069-04-15"
   },
 {
-    "HWID": "12d5cb0632c85dbd6a7a4f90565b3883900346cec048fa03d999f3fa28735692",
+    "HWID": "66794365af1aa4437a2fd682fd2b8a731eca6ff3f0fcaa25602d628de37b3ed6",
     "EXPIRY": "2069-04-15"
   },
 {
