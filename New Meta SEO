@@ -32,10 +32,6 @@
     "EXPIRY": "2060-12-01"
   },
   {
-    "HWID": "f9f503af58baa2473c4ec970b3937e568a2b94c3bf8ca8444d931bdf9e0b9ffe",
-    "EXPIRY": "2060-12-10"
-  },
-  {
     "HWID": "a11494659789cf8fb413381126f9442dfa96813922901e185cf89a68c9c840c5",
     "EXPIRY": "2060-11-01"
   },
@@ -81,10 +77,6 @@
   },
   {
     "HWID": "b4e67df908ef770932b91691e2974d73278e73b98030df39b4b9e2a1156c6bcd",
-    "EXPIRY": "2060-12-01"
-  },
-  {
-    "HWID": "5a1c25a64b35140b8d37b469d6e8ce8b48a52e7838f2f077d5f94181387a718b",
     "EXPIRY": "2060-12-01"
   },
   {
@@ -173,10 +165,6 @@
   },
   {
     "HWID": "4f300868db0253972d16f9dc3753a8f31826ecd59fa998a9e4e0e017ef1b7379",
-    "EXPIRY": "2060-12-01"
-  },
-  {
-    "HWID": "d05c1e86e841c687ebb49f917cf0691f52bd8e281de7a42452a8a243ad513c3f",
     "EXPIRY": "2060-12-01"
   },
   {
@@ -400,10 +388,6 @@
     "EXPIRY": "2060-10-09"
   },
   {
-    "HWID": "abe4744ad0515dc6e4e9c1bfefd9cf3201316839fd8ec05b4f88bde4118d4f09",
-    "EXPIRY": "2060-10-09"
-  },
-  {
     "HWID": "51d59c343f43d4e39d11fe710773e90e27d3bdf0fd3b456f004ab78cccc74f70",
     "EXPIRY": "2060-10-09"
   },
@@ -442,10 +426,6 @@
 {
     "HWID": "090f43e362567352aa782defa4a4d0d82af054c46dc7797bc715506c8cc1c5ef",
     "EXPIRY": "2070-10-16"
-  },
-{
-    "HWID": "3980d1574d57b4b58e479a0229f8de6471cddca4b15abe891e637cb2f9277df7",
-    "EXPIRY": "2060-09-10"
   },
 {
     "HWID": "3980d1574d57b4b58e479a0229f8de6471cddca4b15abe891e637cb2f9277df7",
@@ -642,10 +622,6 @@
   },
 {
     "HWID": "13ba411eaf6083f8c2cb1905f791817d882ad486d28f69ce0f7063dd275aec04",
-    "EXPIRY": "2070-10-29"
-  },
-{
-    "HWID": "7f961d47bff4ca90aeb733b6aedc481c834c4845e26fcc0d38b115752dde45b9",
     "EXPIRY": "2070-10-29"
   },
 {
@@ -1310,10 +1286,6 @@
     "EXPIRY": "2060-12-01"
   },
 {
-    "HWID": "a8edd7fb84799ac506aa11ec6edf52b8cdf6b6edb0c78ea76e3a573fc7bf2c2f",
-    "EXPIRY": "2060-12-01"
-  },
-{
     "HWID": "8bec2394daf241ed0c81a94ba167d5e722e454ab6cc0c29ab3cb176c23cf9532",
     "EXPIRY": "2025-12-30"
   },
@@ -1460,10 +1432,6 @@
 {
     "HWID": "52c64b848ebfd10db6f7b974517173368642cff2eb9a05b8216210b9df1e68c9",
     "EXPIRY": "2026-01-08"
-  },
-{
-    "HWID": "a55e45f55e5145811bd8dee361e974c370344d9bceb9bd3bc5c6c630e77e98ae",
-    "EXPIRY": "2060-12-01"
   },
 {
     "HWID": "a55e45f55e5145811bd8dee361e974c370344d9bceb9bd3bc5c6c630e77e98ae",
@@ -1758,10 +1726,6 @@
     "EXPIRY": "2070-12-01"
   },
 {
-    "HWID": "e0bb680630b879a16c9cf7176660d2cc0dcf33f41ee815ce9c73e4c272bc31ed",
-    "EXPIRY": "2026-02-03"
-  },
-{
     "HWID": "0361154f21f6e13ad3dd774fe0c4530d59aa9365efba6e6f28800a9091ac8337",
     "EXPIRY": "2070-01-18"
   },
@@ -1975,10 +1939,6 @@
   },
 {
     "HWID": "6612bf7f07e105db82f56224eb294384f68ca5716f407815b48308af04e7b7cc",
-    "EXPIRY": "2026-12-29"
-  },
-{
-    "HWID": "5a609eae67d868601d02af395dea503cdedf0444cfa3b0a9028667abfe2d3987",
     "EXPIRY": "2026-12-29"
   },
 {
